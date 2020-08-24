@@ -1,4 +1,7 @@
 # USClimatePostWW2
+
+![](ClimatePic.jpeg)
+
 With Earth Day coming up, this is a graph showing the rising climate in the US from 1946-2013.
 
 All data is from https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
